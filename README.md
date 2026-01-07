@@ -1,4 +1,5 @@
-# La Inteligencia Distribuida
+# La inteligencia distribuida
+## Cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue.svg)](https://quarto.org/)
@@ -7,8 +8,6 @@
 [![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distribia.vercel.app)
 [![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
-
-> **Cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento**
 
 ---
 
