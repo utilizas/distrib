@@ -4,7 +4,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue.svg)](https://quarto.org/)
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-276DC3.svg)](https://www.r-project.org/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/10.5281/zenodo.18172798)
 [![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distrib-two.vercel.app/)
 [![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
@@ -141,13 +141,14 @@ Cuando se indica explícitamente, algunas figuras se basan en simulaciones ilust
 
 ```bibtex
 @misc{moreno2026inteligencia,
-  author       = {Moreno, Miguel},
-  title        = {La inteligencia distribuida: cómo los agentes artificiales 
-                  transformarán la vida, el trabajo y el conocimiento},
+  author       = {Moreno-Mu{\~n}oz, Miguel},
+  title        = {La inteligencia distribuida: c{\'o}mo los agentes artificiales transformar{\'a}n la vida, el trabajo y el conocimiento (v1.2026)},
   year         = {2026},
-  publisher    = {Zenodo},
-  howpublished = {\url{https://github.com/distribia/distribia}},
-  note         = {Universidad de Granada}
+  doi          = {10.5281/zenodo.18172798},
+  url          = {https://doi.org/10.5281/zenodo.18172798},
+  publisher    = {Zenodo (CERN Research Repository)},
+  note         = {Desplegado en Vercel: https://distrib-two.vercel.app/ \\
+                  y en Netlify: https://distribia.netlify.app/}
 }
 ```
 
