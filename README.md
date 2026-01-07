@@ -5,7 +5,7 @@
 [![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue.svg)](https://quarto.org/)
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-276DC3.svg)](https://www.r-project.org/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/)
-[![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distribia.vercel.app)
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distrib-two.vercel.app/)
 [![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
 
