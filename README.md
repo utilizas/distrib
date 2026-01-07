@@ -176,7 +176,7 @@ Universidad de Granada
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0746--9587-green?logo=orcid)](https://orcid.org/0000-0002-0746-9587)
 [![Email](https://img.shields.io/badge/Email-mm3%40ugr.es-blue)](mailto:mm3@ugr.es)
-[![ROR](https://img.shields.io/badge/ROR-UGR-orange)](https://ror.org/01y2jtd41)
+[![ROR](https://img.shields.io/badge/ROR-UGR-orange)](https://ror.org/04njjy449)
 
 ---
 
