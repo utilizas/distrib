@@ -80,7 +80,7 @@ Cuando se indica explícitamente, algunas figuras se basan en simulaciones ilust
   year         = {2026},
   doi          = {10.5281/zenodo.18172798},
   url          = {https://doi.org/10.5281/zenodo.18172798},
-  publisher    = {Zenodo (CERN Research Repository)},
+  publisher    = {Zenodo - CERN Research Repository},
   note         = {Desplegado en Vercel: https://distrib-two.vercel.app/ \\
                   y en Netlify: https://distribia.netlify.app/}
 }
@@ -88,7 +88,7 @@ Cuando se indica explícitamente, algunas figuras se basan en simulaciones ilust
 
 **Cita sugerida**: 
 
-Moreno-Muñoz, M. (2026). *La inteligencia distribuida: cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento*. Universidad de Granada. Zenodo - (CERN Research Repository). <https://doi.org/10.5281/zenodo.18172798>
+Moreno-Muñoz, M. (2026). *La inteligencia distribuida: cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento*. Universidad de Granada. Zenodo - CERN Research Repository. <https://doi.org/10.5281/zenodo.18172798>
 
 ---
 
