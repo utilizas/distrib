@@ -52,78 +52,12 @@ Esta monografía presenta un análisis detenido del impacto transformador de la 
 
 ---
 
-## Despliegue
-
-### GitHub Pages
-
-El repositorio está configurado para despliegue automático en GitHub Pages mediante GitHub Actions.
-
-### Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/distribia/distribia)
-
-```bash
-# Instalación CLI
-npm i -g vercel
-
-# Despliegue
-vercel --prod
-```
-
-**Configuración** (`vercel.json`):
-```json
-{
-  "buildCommand": "quarto render el_giro_cognitivo.qmd",
-  "outputDirectory": "_site",
-  "installCommand": "npm install"
-}
-```
-
-### Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/distribia/distribia)
-
-```bash
-# Instalación CLI
-npm install -g netlify-cli
-
-# Despliegue
-netlify deploy --prod
-```
-
-**Configuración** (`netlify.toml`):
-```toml
-[build]
-  command = "quarto render el_giro_cognitivo.qmd"
-  publish = "_site"
-
-[build.environment]
-  QUARTO_VERSION = "1.4"
-```
-
----
-
-## Reproducibilidad
-
-### Requisitos
+## Reproducibilidad:
 
 - **R** ≥ 4.0
 - **Quarto** ≥ 1.4
 - Paquetes R: `tidyverse`, `ggplot2`, `ggrepel`, `knitr`, `kableExtra`, `scales`
 
-### Renderizado local
-
-```bash
-# Clonar repositorio
-git clone https://github.com/distribia/distribia.git
-cd distribia
-
-# Instalar dependencias R
-Rscript -e "install.packages(c('tidyverse', 'ggplot2', 'ggrepel', 'knitr', 'kableExtra', 'scales'))"
-
-# Renderizar documento
-quarto render el_giro_cognitivo.qmd
-```
 
 ### Fuentes de datos
 
