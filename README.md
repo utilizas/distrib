@@ -154,7 +154,7 @@ Cuando se indica explícitamente, algunas figuras se basan en simulaciones ilust
 
 **Cita sugerida**: 
 
-Moreno, M. (2026). *La inteligencia distribuida: cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento*. Universidad de Granada. Zenodo - (CERN Research Repository). <https://doi.org/10.5281/zenodo.18172798>
+Moreno-Muñoz, M. (2026). *La inteligencia distribuida: cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento*. Universidad de Granada. Zenodo - (CERN Research Repository). <https://doi.org/10.5281/zenodo.18172798>
 
 ---
 
