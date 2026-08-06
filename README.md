@@ -1,14 +1,14 @@
 # La inteligencia distribuida
 ## Cómo los agentes artificiales transformarán la vida, el trabajo y el conocimiento
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/10.5281/zenodo.18172798)
+[![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
+[![Deploy on Cloudflare](https://img.shields.io/badge/Cloudflare-distribia-F38020?logo=cloudflare)](https://distribia.utilizas.workers.dev/)
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distrib-two.vercel.app/)
+[![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue.svg)](https://quarto.org/)
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-276DC3.svg)](https://www.r-project.org/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/10.5281/zenodo.18172798)
-[![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distrib-two.vercel.app/)
-[![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
-[![Deploy on Cloudflare](https://img.shields.io/badge/Cloudflare-distribia-F38020?logo=cloudflare)](https://distribia.utilizas.workers.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
 
 ---
 
