@@ -7,6 +7,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://zenodo.org/10.5281/zenodo.18172798)
 [![Deploy on Vercel](https://img.shields.io/badge/Vercel-distribia-black?logo=vercel)](https://distrib-two.vercel.app/)
 [![Deploy on Netlify](https://img.shields.io/badge/Netlify-distribia-00C7B7?logo=netlify)](https://distribia.netlify.app)
+[![Deploy on Cloudflare](https://img.shields.io/badge/Cloudflare-distribia-F38020?logo=cloudflare)](https://distribia.utilizas.workers.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-distribia-181717?logo=github)](https://github.com/distribia)
 
 ---
