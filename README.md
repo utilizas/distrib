@@ -83,8 +83,7 @@ Cuando se indica explícitamente, algunas figuras se basan en simulaciones ilust
   doi          = {10.5281/zenodo.18172798},
   url          = {https://doi.org/10.5281/zenodo.18172798},
   publisher    = {Zenodo - CERN Research Repository},
-  note         = {Desplegado en Vercel: https://distrib-two.vercel.app/ \\
-                  y en Netlify: https://distribia.netlify.app/}
+  note         = {Desplegado en Vercel: https://distrib-two.vercel.app/ · Cloudflare: https://distribia.utilizas.workers.dev/ · Netlify: https://distribia.netlify.app/}
 }
 ```
 
